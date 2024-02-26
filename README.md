@@ -10,6 +10,8 @@ El objetivo principal de este repositorio es mostrar mi experiencia y habilidade
 
 A continuación, encontrarás una lista de los proyectos disponibles en este repositorio:
 
+- Series temporales: Este proyecto se centra en realizar predicciones sobre una serie temporal utilizando un enfoque que implica la separación de las componentes de la serie. Se aplicará un método para realizar predicciones sobre la componente aleatoria y luego se agregarán las componentes eliminadas para obtener la predicción final.
+
 
 ## Estructura del Repositorio
 
