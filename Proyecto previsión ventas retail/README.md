@@ -16,4 +16,8 @@ El proyecto se centra en predecir las ventas futuras utilizando técnicas de an�
 ## Requisitos de Instalación
 
 Para ejecutar el código de este proyecto, se requiere tener instalado Python 3 y las siguientes librerías Python:
+Panel
+Pandas
+Matplotlib
+Seaborn
 
